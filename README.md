@@ -5,4 +5,4 @@ To be written
 
 DEMO: 
 
-![part2endofactivityunit2](https://github.com/costa911/JAVATicTacToe/assets/102555905/ec92f6cb-7b74-4d9f-b4c1-485464095488)
+![part2endofactivityunit2](https://github.com/costa911/JAVATicTacToe/assets/102555905/9ea7b958-2555-4177-9720-c8e232d8ab4d)
